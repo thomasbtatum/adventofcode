@@ -1,0 +1,259 @@
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr eyr hcl hgt iyr pid 
+False  ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  ecl eyr hcl hgt iyr pid 
+False  eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr cid eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl hgt pid 
+False  byr ecl eyr iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr eyr hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl hgt pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hcl hgt iyr 
+False  byr cid ecl hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl hgt iyr 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl hgt iyr 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl hgt pid 
+False  byr cid ecl eyr hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl hgt pid 
+False  byr ecl eyr hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr cid ecl hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hcl iyr pid 
+False  byr cid ecl eyr hcl hgt iyr 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr ecl hcl hgt iyr 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl hgt pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hcl hgt pid 
+False  byr ecl hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr eyr hcl iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hcl iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hgt iyr pid 
+False  byr cid ecl eyr hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl iyr pid 
+False  byr cid ecl hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr cid ecl hcl hgt pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hcl hgt iyr 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  cid ecl eyr hcl hgt iyr pid 
+False  byr cid ecl hcl iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hcl hgt pid 
+False  byr cid ecl eyr hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr cid eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hcl hgt iyr 
+False  byr ecl eyr hcl hgt pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hgt pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr ecl hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hcl hgt pid 
+True  byr ecl eyr hcl hgt iyr pid 
+False  byr cid ecl eyr hcl hgt pid 
+False  byr cid ecl eyr hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  cid ecl eyr hcl hgt iyr pid 
+False  byr eyr hcl hgt iyr pid 
+False  byr cid eyr hcl hgt iyr 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
+False  byr ecl eyr hcl hgt pid 
+False  byr cid ecl hcl hgt iyr pid 
+False  byr cid ecl hcl hgt iyr 
+True  byr cid ecl eyr hcl hgt iyr pid 
+True  byr cid ecl eyr hcl hgt iyr pid 
