@@ -1,6 +1,7 @@
 from collections import deque, defaultdict
 target = "shinygold"
 rules = defaultdict(list)
+contents = defaultdict(list)
 
 def getbagname(longname):
     assert len(longname) > 0 and longname.find('bag') > 0
@@ -18,10 +19,10 @@ for line in f:
         if(bag.split(' ')[0] == 'no'):
             continue
         else:
-            rules[getbagname(bag.split(' ',1)[1])].append(key)
-    
-#    if len(baglist) > 0:    
-#        rules[key] = baglist
+            name = getbagname(bag.split(' ',1)[1])
+            count = int(bag.split(' ',1)[0])
+            rules[name].append(key)
+            contents[key].append((count,name))
 
 SEEN = set()
 Q = deque([target])
@@ -35,4 +36,10 @@ while Q:
 print(len(SEEN)-1)
 
 print(SEEN)
-print(rules)
+
+def size(bag):
+    ans = 1
+    for(n,y) in contents[bag]:
+        ans += n*size(y)
+    return ans
+print(size(target)-1)
