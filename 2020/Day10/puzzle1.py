@@ -19,3 +19,19 @@ while idx < len(numbers)-1:
 
 print(count)
 print(count[1]*count[3])
+
+#Dynamic Programming credit goes to: Jonathan Paulson! - https://www.youtube.com/watch?v=cE88K2kFZn0
+DP = {}
+def dp(i):
+    if i==len(numbers)-1:
+        return 1
+    if i in DP:
+        return DP[i]
+    ans = 0
+    for j in range(i+1, len(numbers)):
+        if numbers[j]-numbers[i] <= 3:
+            ans += dp(j)
+    DP[i] = ans
+    return ans
+
+print(dp(0))
