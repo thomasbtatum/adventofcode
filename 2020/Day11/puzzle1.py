@@ -63,7 +63,7 @@ def simulateSeating(seats):
         newSeats.append(row)
     return newSeats
  
-f = open("Puzzle1-sample.in")
+f = open("Puzzle1.in")
 
 seatrows = []
 for line in f:
