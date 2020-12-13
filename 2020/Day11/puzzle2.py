@@ -70,7 +70,7 @@ def simulateSeating(seats):
         newSeats.append(row)
     return newSeats
  
-f = open("Puzzle1-sample.in")
+f = open("Puzzle1.in")
 
 seatrows = []
 for line in f:
@@ -78,16 +78,16 @@ for line in f:
 
 
 
-printseats(seatrows)
+#printseats(seatrows)
 nextseats = simulateSeating(seatrows)
-print('-')
-printseats(nextseats)
-print('-')
+#print('-')
+#printseats(nextseats)
+#print('-')
 
 while(not compareseats(seatrows,nextseats)):
     seatrows = copy.deepcopy(nextseats)
     nextseats = simulateSeating(nextseats)
-    printseats(nextseats)
-    print('-')
+    #printseats(nextseats)
+    #print('-')
 
 print(countoccupied(nextseats))
