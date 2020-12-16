@@ -1,6 +1,6 @@
 from datetime import datetime, date, timedelta
 
-f = open("Puzzle1-sample.in")
+f = open("Puzzle1.in")
 
 departure = 0
 first = True
