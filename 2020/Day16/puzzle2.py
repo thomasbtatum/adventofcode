@@ -40,14 +40,13 @@ for line in f:
         k,v = getRangefrom(input)
         validRanges[k] = v
     elif input.startswith('your ticket'):
-        yourticket = next(f).strip('\n')
+        yourticket = [int(x) for x in next(f).strip('\n').split(',')]
         throwaway = next(f)
     elif input.startswith('nearby tickets:'):
         count = 0
         while True:
             try:
-                readnearby = next(f)
-                nearbytickets[count] = list(map(int,readnearby.strip('\n').split(',')))
+                nearbytickets[count] = [int(x) for x in next(f).strip('\n').split(',')]
                 count+=1
             except(StopIteration):
                 break
@@ -63,23 +62,34 @@ for nt in nearbytickets.keys():
     if checknearby(nearbytickets[nt],validRanges):
         validnearbys[nt] = nearbytickets[nt]
 
+#build ok
+for vn in validnearbys:
+    avalid = validnearbys[vn]
+    for i,v in enumerate(avalid):
+        for j,k in enumerate(validRanges):
+            if not checkValueagainstranges(avalid[i],validRanges[k]):
+                OK[i][j] = False
 
-#print("valid ranges",validRanges)
-#print("nearby tickets",nearbytickets)
-#print("valid nearbys",validnearbys)
+MAP = [None for _ in range(20)]
+USED = [False for _ in range(20)]
 
-departureranges  = {k:v for (k,v) in validRanges.items() if k.startswith('departure')}
-print("we have:", len(departureranges))
-print("we have:", len(validnearbys))
+found = 0
 
-for k in departureranges:
-    for idx in range(0,len(validnearbys[0])):
-        countGood = 0
-        for v in validnearbys:
-            if not checkValueagainstranges(validnearbys[v][idx],departureranges[k]):
-                countGood = 0
-                break
-            else:
-                countGood+=1
-        if countGood > 0:
-            print ("good idx", k, idx, countGood)
+while True:
+    for i in range(20):
+        valid_j = [j for j in range(20) if OK[i][j] and not USED[j]]
+        if len(valid_j) == 1:
+            MAP[i]  = valid_j[0]
+            USED[valid_j[0]] = True
+            found += 1
+    if      found == 20:
+        break
+
+print(yourticket)
+print(MAP)
+p2 = 1
+for i,j in enumerate(MAP):
+    if j < 6:
+        p2 *= yourticket[i]
+    
+print(p2)
